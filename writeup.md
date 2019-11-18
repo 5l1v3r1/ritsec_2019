@@ -3,9 +3,9 @@ RITSEC CTF 2019 is a security-focused competition that features the following ca
 
 ## Overview
 
-**URL:** https://ctf.ritsec.club/ 
-**Organisors:** Contagion 
-**Duration:** Sat, 16 Nov. 2019, 04:00 AEDT — Mon, 18 Nov. 2019, 16:00 AEDT 
+**URL:** https://ctf.ritsec.club/  
+**Organisors:** Contagion  
+**Duration:** Sat, 16 Nov. 2019, 04:00 AEDT — Mon, 18 Nov. 2019, 16:00 AEDT  
 
 ```
 Title                         Category        Points  Flag
