@@ -1,12 +1,11 @@
-# CSC Major 2019
-Cyber Skills Challenge - Major - 2019
+# RITSEC CTF 2019
+RITSEC CTF 2019 is a security-focused competition that features the following categories: Bin, PWN, Crypto, Forensics, Steganography, and Web. We welcome beginners and more advanced security friends! There will be three brackets: RIT students, other college students, and everyone else.
 
 ## Overview
 
-**URL:** https://ctf.fifthdomain.com.au (site will remain online)  
-**Organisors:** ADF Cyber Skills Challenge 
-**Duration:** ? days  
-**Team mates:** Individual Competition  
+**URL:** https://ctf.ritsec.club/ 
+**Organisors:** Contagion 
+**Duration:** Sat, 16 Nov. 2019, 04:00 AEDT — Mon, 18 Nov. 2019, 16:00 AEDT 
 
 ```
 Title                         Category        Points  Flag
