@@ -65,25 +65,3 @@ Hint: You don't need the Bearer keyword!
 RITSEC{JWT_th1s_0ne_d0wn}
 ```
 ---
-
-
-## ?
-
-* **Category:** Misc
-* **Points:** 100
-
-### Challenge
-
-> 
-
-[peek-a-boo.pcap](/writeupfiles/peek-a-boo.pcap)
-
-### Solution
-
-> ?
-
-**Flag**
-```
-flag{}
-```
----
